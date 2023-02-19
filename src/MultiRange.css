@@ -1,0 +1,14 @@
+.range{
+  margin-top: 40px;
+  text-align: center;
+  
+}
+
+.multi-range-slider{
+  border: none!important;
+  box-shadow: none!important;
+}
+
+.ruler{
+  display: none!important;
+}
